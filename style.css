@@ -1,0 +1,54 @@
+#Form{
+    padding-left: 35%;
+    padding-top: 15%;
+}
+h1{
+   
+    top: -20px;
+    left: 10px;
+    font-size:45px;
+    font-weight:bold;
+    letter-spacing:20px;
+    color:#e0619c;
+}
+#email{
+    width: 100%;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 0.5rem;  
+}
+#senha{
+    width: 100%;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 0.5rem;
+}
+form{
+    border: 2px solid rgb(189, 74, 112);
+    top: 50px;
+    text-align:center;
+}
+.card-footer .submit{
+
+    width: 50%;
+
+    height: 40px;
+
+    background-color: #a13854;
+
+    border:none;
+
+    color:#e1e1e1;
+
+    margin: 10px 0;
+
+}
+.col-6 a {
+
+    padding-left: 150px;
+
+    font-size: 15px;
+
+    opacity: 0.9;
+
+}
